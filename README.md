@@ -1,2 +1,0 @@
-# bluecupid
-Free dating APP
